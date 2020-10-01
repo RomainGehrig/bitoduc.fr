@@ -243,5 +243,6 @@
     {"anglais": "Wildcard", "français": "Joker", "genre": "m", "classe": "groupe nominal"},
     {"anglais": "Workaround", "français": "Contournement", "genre": "m", "classe": "groupe nominal"},
     {"anglais": "Wrapper", "français": "Enrobeur", "genre": "m", "classe": "groupe nominal"},
+    {"anglais": "WYSIWYG (What You See Is What You Get)", "français": "CQVVECQVR (Ce Que Vous Voyez Est Ce Que Vous Recevez)", "classe": "proposition"},
     {"anglais": "XSS (Cross Site Scripting)", "français": "ICID (Injection de Code Indirect à Distance)", "genre": "f", "classe": "groupe nominal"}
 ]
